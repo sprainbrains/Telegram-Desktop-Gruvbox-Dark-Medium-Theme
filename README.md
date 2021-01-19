@@ -1,4 +1,4 @@
-# Telegram Desktop Gruvbox dark (medium) Theme
+# Telegram Desktop Gruvbox Dark Medium Theme
 Gruvbox is a retro groove color scheme for Telegram Desktop.
 Based on https://github.com/morhetz/gruvbox
 
