@@ -6,7 +6,7 @@ Based on https://github.com/morhetz/gruvbox
 
 ## Installation
 1. Download [latest release](https://github.com/sprainbrains/Telegram-Desktop-Gruvbox-Dark-Medium-Them/releases/download/v1.0/gruvbox-dark-medium.tdesktop-theme).
-2. You have two ways to install^
+2. You have two ways to install:
    1. To get theme from [t.me](https://t.me/addtheme/WEdkXCzk7U6qkLjl)
    1. Upload the file to any Telegram chat.
 3. Open the file and apply theme.
